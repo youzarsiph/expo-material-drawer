@@ -1,6 +1,6 @@
-# Contributing to `expo-material`
+# Contributing to `expo-material-drawer`
 
-We are grateful for your interest in contributing to the `expo-material` project. Our community values contributions from individuals with a variety of backgrounds and skill levels. We welcome code contributions, documentation improvements, bug reports, and feature requests. This guide will help you get started.
+We are grateful for your interest in contributing to the `expo-material-drawer` project. Our community values contributions from individuals with a variety of backgrounds and skill levels. We welcome code contributions, documentation improvements, bug reports, and feature requests. This guide will help you get started.
 
 ## Code of Conduct
 
@@ -10,7 +10,7 @@ By participating in this project, you are expected to uphold our [Code of Conduc
 
 ### Prerequisites
 
-To contribute to the `expo-material` project, you need:
+To contribute to the `expo-material-drawer` project, you need:
 
 - **Node.js**: A JavaScript runtime environment. [Installation Guide](https://nodejs.org/en/download/)
 - **npm**: A package manager for JavaScript. [Installation Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
@@ -18,12 +18,12 @@ To contribute to the `expo-material` project, you need:
 
 ### Setting Up the Project
 
-1. **Fork the Repository**: Create a fork of the `expo-material` repository on GitHub.
+1. **Fork the Repository**: Create a fork of the `expo-material-drawer` repository on GitHub.
 2. **Clone Your Fork**:
 
    ```bash
-   git clone https://github.com/your-github-username/expo-material.git
-   cd expo-material
+   git clone https://github.com/your-github-username/expo-material-drawer.git
+   cd expo-material-drawer
    ```
 
 3. **Install Dependencies**:
@@ -44,7 +44,7 @@ To contribute to the `expo-material` project, you need:
 
 ### How Can I Contribute?
 
-- **Bug Fixes**: Identify and fix issues reported in the [Issues section](https://github.com/youzarsiph/expo-material/issues).
+- **Bug Fixes**: Identify and fix issues reported in the [Issues section](https://github.com/youzarsiph/expo-material-drawer/issues).
 - **Features**: Propose and implement new features that complement the existing functionality of the project.
 - **Documentation**: Improve the project documentation for clarity and completeness.
 - **Code Quality**: Contribute to code reviews, write tests, and lint code.
@@ -88,7 +88,7 @@ To contribute to the `expo-material` project, you need:
 
 ### Reporting Issues
 
-If you encounter a bug or have a feature request, please open an issue in the [Issues section](https://github.com/youzarsiph/expo-material/issues).
+If you encounter a bug or have a feature request, please open an issue in the [Issues section](https://github.com/youzarsiph/expo-material-drawer/issues).
 When reporting a bug, include the following information:
 
 - A clear and descriptive title
@@ -100,14 +100,14 @@ When reporting a bug, include the following information:
 
 ## Documentation
 
-Detailed documentation on setting up, configuring, and using the `expo-material` template can be found in the [README.md](README.md) file. We are always looking for ways to improve our documentation, so contributions in this area are greatly appreciated.
+Detailed documentation on setting up, configuring, and using the `expo-material-drawer` template can be found in the [README.md](README.md) file. We are always looking for ways to improve our documentation, so contributions in this area are greatly appreciated.
 
 ## Licensing
 
-By contributing to the `expo-material` project, you agree to license your contributions under the [MIT License](LICENSE).
+By contributing to the `expo-material-drawer` project, you agree to license your contributions under the [MIT License](LICENSE).
 
 ## Contact
 
-For further information, support, or inquiries, please contact the project maintainers or visit the [GitHub repository](https://github.com/youzarsiph/expo-material).
+For further information, support, or inquiries, please contact the project maintainers or visit the [GitHub repository](https://github.com/youzarsiph/expo-material-drawer).
 
-Thank you for contributing to the `expo-material` project!
+Thank you for contributing to the `expo-material-drawer` project!

@@ -1,15 +1,15 @@
-# expo-material
+# expo-material-drawer
 
-[![EAS Build](https://github.com/youzarsiph/expo-material/actions/workflows/eas-build.yml/badge.svg)](https://github.com/youzarsiph/expo-material/actions/workflows/eas-build.yml)
-[![EAS Review](https://github.com/youzarsiph/expo-material/actions/workflows/eas-reviews.yml/badge.svg)](https://github.com/youzarsiph/expo-material/actions/workflows/eas-reviews.yml)
-[![EAS Update](https://github.com/youzarsiph/expo-material/actions/workflows/eas-update.yml/badge.svg)](https://github.com/youzarsiph/expo-material/actions/workflows/eas-update.yml)
-[![CodeQL](https://github.com/youzarsiph/expo-material/actions/workflows/codeql.yml/badge.svg)](https://github.com/youzarsiph/expo-material/actions/workflows/codeql.yml)
-[![ESLint](https://github.com/youzarsiph/expo-material/actions/workflows/eslint.yml/badge.svg)](https://github.com/youzarsiph/expo-material/actions/workflows/eslint.yml)
-[![Prettier](https://github.com/youzarsiph/expo-material/actions/workflows/prettier.yml/badge.svg)](https://github.com/youzarsiph/expo-material/actions/workflows/prettier.yml)
+[![EAS Build](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/eas-build.yml/badge.svg)](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/eas-build.yml)
+[![EAS Review](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/eas-reviews.yml/badge.svg)](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/eas-reviews.yml)
+[![EAS Update](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/eas-update.yml/badge.svg)](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/eas-update.yml)
+[![CodeQL](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/codeql.yml/badge.svg)](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/codeql.yml)
+[![ESLint](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/eslint.yml/badge.svg)](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/eslint.yml)
+[![Prettier](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/prettier.yml/badge.svg)](https://github.com/youzarsiph/expo-material-drawer/actions/workflows/prettier.yml)
 
 ## Overview
 
-The `expo-material` template is a robust foundation for developing modern, cross-platform mobile and web applications using the Expo platform. Leveraging Material Design V3, it offers a sleek and intuitive user interface. The template supports both light and dark themes, ensuring a seamless and adaptive experience across various devices and environments.
+The `expo-material-drawer` template is a robust foundation for developing modern, cross-platform mobile and web applications using the Expo platform. Leveraging Material Design V3, it offers a sleek and intuitive user interface. The template supports both light and dark themes, ensuring a seamless and adaptive experience across various devices and environments.
 
 ## Key Features
 
@@ -44,8 +44,8 @@ Ensure the following prerequisites are met:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/youzarsiph/expo-material.git
-   cd expo-material
+   git clone https://github.com/youzarsiph/expo-material-drawer.git
+   cd expo-material-drawer
    ```
 
 2. **Configure Project Name**:
@@ -88,7 +88,7 @@ Ensure the following prerequisites are met:
 
 We welcome contributions from the community. To contribute, please follow these steps:
 
-1. **Fork the Repository**: Create a fork of the `expo-material` repository on GitHub.
+1. **Fork the Repository**: Create a fork of the `expo-material-drawer` repository on GitHub.
 2. **Create a Feature Branch**: Branch out from the `main` branch into your new branch.
 3. **Make Your Changes**: Implement your desired features or improvements.
 4. **Commit Your Changes**: Use clear and descriptive commit messages.
@@ -98,8 +98,8 @@ Ensure that your contributions align with the project's coding standards and gui
 
 ## License
 
-The `expo-material` template is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
+The `expo-material-drawer` template is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
 
 ## Contact
 
-For further information, support, or inquiries, please contact the project maintainers or visit the [GitHub repository](https://github.com/youzarsiph/expo-material).
+For further information, support, or inquiries, please contact the project maintainers or visit the [GitHub repository](https://github.com/youzarsiph/expo-material-drawer).
