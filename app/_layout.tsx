@@ -12,7 +12,7 @@ import { useColorScheme } from 'react-native'
 import 'react-native-reanimated'
 
 import { adaptNavigationTheme, PaperProvider } from 'react-native-paper'
-import { AppDarkTheme, AppLightTheme } from '@/ui'
+import { AppDarkTheme, AppLightTheme, StackHeader } from '@/ui'
 
 // Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync()
@@ -51,8 +51,15 @@ export default function RootLayout() {
       <PaperProvider
         theme={colorScheme === 'dark' ? AppDarkTheme : AppLightTheme}
       >
-        <Stack>
-          <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+        <Stack
+          screenOptions={{
+            header: (props) => (
+              <StackHeader navProps={props} children={undefined} />
+            ),
+          }}
+        >
+          <Stack.Screen name="(drawer)" options={{ headerShown: false }} />
+          <Stack.Screen name="search" options={{ title: 'Search' }} />
           <Stack.Screen name="+not-found" />
         </Stack>
 
