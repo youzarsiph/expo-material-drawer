@@ -1,7 +1,7 @@
 import { ScrollView, useColorScheme, View } from 'react-native'
 import { Icon, Text, useTheme } from 'react-native-paper'
 
-import { Colors } from '@/ui'
+import { Colors } from '@/lib'
 
 const Search = () => {
   const theme = useTheme()

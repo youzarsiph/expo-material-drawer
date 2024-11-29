@@ -2,7 +2,7 @@ import React from 'react'
 import { Drawer } from 'expo-router/drawer'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 
-import { DrawerContent, DrawerHeader } from '@/ui'
+import { DrawerContent, DrawerHeader } from '@/lib'
 
 const DrawerLayout = () => (
   <GestureHandlerRootView style={{ flex: 1 }}>
@@ -17,7 +17,12 @@ const DrawerLayout = () => (
       )}
       screenOptions={{
         header: (props) => (
-          <DrawerHeader navProps={props} children={undefined} withSearchBar />
+          <DrawerHeader
+            navProps={props}
+            children={undefined}
+            withSearchBar
+            searchBarProps={{ value: '', placeholder: 'Search...' }}
+          />
         ),
       }}
     >
