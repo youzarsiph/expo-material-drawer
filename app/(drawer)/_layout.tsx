@@ -12,7 +12,6 @@ const DrawerLayout = () => (
           navProps={props}
           showDivider={false}
           children={undefined}
-          title="Expo Material Drawer"
         />
       )}
       screenOptions={{
